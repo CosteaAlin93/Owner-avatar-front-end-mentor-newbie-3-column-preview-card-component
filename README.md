@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://github.com/CosteaAlin93/Owner-avatar-front-end-mentor-newbie-3-column-preview-card-component)
-- Live Site URL: [here](https://costeaalin93.github.io/Owner-avatar-front-end-mentor-newbie-3-column-preview-card-component/)
+- Live Site URL: [here](https://costeaalin93.github.io/front-end-mentor-newbie-3-column-preview-card-component/)
 
 ## My process
 
